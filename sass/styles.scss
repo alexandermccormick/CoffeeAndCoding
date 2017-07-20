@@ -6,3 +6,25 @@
 // font-family: 'Raleway', sans-serif;
 // font-family: 'Droid Sans', sans-serif;
 // font-family: 'Ubuntu', sans-serif;
+nav.navbar-default {
+    background-color: $gw-red;
+    .navbar-brand {
+        color: $gw-text-clr;
+    }
+    .navbar-nav {
+        li {
+            a {
+                color: $gw-text-clr;
+            }
+        }
+        .dropdown {
+            ul.dropdown-menu {
+                li {
+                    a {
+                        color: black;
+                    }
+                }
+            }
+        }
+    }
+}

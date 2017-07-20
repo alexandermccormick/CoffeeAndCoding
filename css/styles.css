@@ -1,0 +1,8 @@
+nav.navbar-default {
+  background-color: #7A1501; }
+  nav.navbar-default .navbar-brand {
+    color: #F9DA0C; }
+  nav.navbar-default .navbar-nav li a {
+    color: #F9DA0C; }
+  nav.navbar-default .navbar-nav .dropdown ul.dropdown-menu li a {
+    color: black; }
